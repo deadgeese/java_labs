@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        List<Student> students = new ArrayList();
+        List<Student> students = new ArrayList<>();
         createStudentsList(students);
         printStudents(students);
         checkStudents(students);
