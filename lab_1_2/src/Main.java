@@ -1,8 +1,6 @@
-//import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-//import java.util.OptionalDouble;
 import java.util.Random;
 import java.util.Scanner;
 
